@@ -1,0 +1,41 @@
+/* *{
+    background-color: rgb(67, 70, 70);
+}
+#para{
+   
+
+    text-align: center;
+    max-width: 800px;
+    margin: auto ;
+    background: #fff;
+    width: fit-content;
+    box-shadow: 2px 5px 5px rgba(198, 138, 138,0.1);
+    padding: 30px;
+    border-radius: 5px;
+}
+/* h4{
+    float: left;
+} */ 
+body{
+    background-color: azure;
+}
+#para{
+    
+        text-align: center;
+        max-width: 800px;
+        margin: auto ;
+        background: #fff;
+        width: fit-content;
+        box-shadow: 0 2px 15px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+        border-radius: 5px;
+        
+    }  
+    
+
+#para2{
+    margin-left: 170px;
+    margin-right: 170px;
+    box-shadow: 15px solid #5d5a5a;
+    
+}
